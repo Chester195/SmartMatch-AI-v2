@@ -43,6 +43,8 @@ This project introduces a data-driven approach using machine learning to predict
 ---
 
 ## Project Structure
+
+```
 prototype_v2/
 │
 ├── Home.py
@@ -50,11 +52,12 @@ prototype_v2/
 ├── README.md
 ├── requirements.txt
 └── pages/
-├── 1_Brand_Campaign.py
-├── 2_AI_Recommendations.py
-├── 3_Influencer_Directory.py
-├── 4_Influencer_Profile.py
-└── 5_Model_Insights.py
+    ├── 1_Brand_Campaign.py
+    ├── 2_AI_Recommendations.py
+    ├── 3_Influencer_Directory.py
+    ├── 4_Influencer_Profile.py
+    └── 5_Model_Insights.py
+```
 
 ---
 
